@@ -1,6 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No. 6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 04/05/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -48,8 +48,8 @@
 ## Output:
 ![328188352-69756e1b-995e-4770-b492-2f875123f42e](https://github.com/SanjayRagavendar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/91368803/c3b15fe1-6ac9-4cf1-b75c-f20091048d13)
 
-### Name: SANJAY RAGAVENDAR M K
-### Register Number: 212222100045
+### Name: Sivaramakrishnan B
+### Register Number: 212222110044
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
